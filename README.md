@@ -115,6 +115,5 @@ A Software Engineering student passionate about building scalable web applicatio
 
 <p align="left">
 📧 Email: aloxezthien2005@gmail.com<br>
-💻 GitHub: <a href="https://github.com/tqthienda1">github.com/tqthienda1</a><br>
 📘 Facebook: <a href="https://www.facebook.com/tran.quoc.thien.192256">Profile</a>
 </p>
