@@ -51,7 +51,7 @@ A Software Engineering student passionate about building scalable web applicatio
 
 ### ☁️ Deployment & Tools
 <p align="left">
-  <img src="https://skill-icons-livid.vercel.app/icons?i=git,github,docker,vercel,render" />
+  <img src="https://skill-icons-livid.vercel.app/icons?i=git,github,vercel,render" />
 </p>
 
 ---
